@@ -2,7 +2,7 @@
 <head>  
 <script type="text/javascript">  
 function msg(){  
- alert("Hello Javatpoint");  
+ alert("Hai  Javatpoint");  
 }  
 </script>  
 </head>  
@@ -13,4 +13,5 @@ function msg(){
 </form>  
 </body>  
 </html>  
+ output is Hai java
 
