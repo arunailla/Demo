@@ -14,4 +14,4 @@ function msg(){
 </body>  
 </html>  
  output is Hai java
-
+output is enter java
